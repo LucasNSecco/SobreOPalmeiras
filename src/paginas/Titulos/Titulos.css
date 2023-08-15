@@ -1,0 +1,16 @@
+.h1_titulos{
+    text-align: center;
+}
+
+.img_titulos{
+    margin-top: 10px;
+    height: 200px;
+}
+
+.p_titulos{
+    font-size: 25px;
+}
+
+.h2_titulos{
+    font-size: 30px;
+}
